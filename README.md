@@ -44,7 +44,3 @@ Dynamic portfolio showcasing creativity, innovation, and collaboration. Compelli
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/vermavivek807/vermavivek807/output/snake.svg" alt="Snake animation" />
-
-###
